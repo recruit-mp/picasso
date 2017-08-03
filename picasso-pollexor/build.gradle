@@ -6,7 +6,7 @@ buildscript {
 
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.github.Fablic'
+group='com.github.recruit-mp'
 
 apply plugin: 'com.android.library'
 
